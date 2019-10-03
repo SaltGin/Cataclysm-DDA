@@ -63,7 +63,7 @@ const morale_type &morale_type_data::convert_legacy( int lmt )
 
             morale_type( "morale_moodswing" ),
             morale_type( "morale_book" ),
-			  morale_type( "morale_sit" ),
+            morale_type( "morale_sit" ),
             morale_type( "morale_comfy" ),
 
             morale_type( "morale_scream" ),
